@@ -30,3 +30,14 @@ To achieve the correct appearance—especially the alignment with the `"i"` dot�
    <array>
        <string>Poppins-Black.ttf</string>
    </array>
+
+   ## 📷 Preview
+
+## 📷 Preview
+
+![Light effect preview](https://cdn.dribbble.com/userupload/23691509/file/original-a10b0c23fdef98e9156cb233f6b1e146.gif)
+
+The animation includes:
+- A rotating cone of light based on trigonometric calculations
+- A static glowing dot on the "i" to mimic a fixed light source
+- Smooth transitions and a spring-based bounce effect
