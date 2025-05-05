@@ -2,8 +2,9 @@
 
 This SwiftUI demo showcases an animated light beam effect that rotates over the text `"Light"`. The animation simulates a dynamic cone of light that pivots from the dot of the letter **"i"**, revealing the text beneath it as the beam sweeps across.
 
-🎨 **Inspired by the beautiful Dribbble design:**  
-[Light II by Alexey Konkov](https://dribbble.com/shots/5414044-Light-II)
+🎨 **Inspired by the beautiful Dribbble design by [Oleg Frolov](https://dribbble.com/Volorf):**  
+[Light II – Dribbble Shot](https://dribbble.com/shots/5414044-Light-II)
+
 
 ---
 
